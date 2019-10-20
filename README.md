@@ -1,6 +1,8 @@
 # my-first-R-programme
 
-Lab Sheet 1 
+The Excersice
+
+
 1. Make script called  “firstProgramme”. When run, the script should display the following text: 
 Hello World! I am going to learn OCTAVE! 
  
